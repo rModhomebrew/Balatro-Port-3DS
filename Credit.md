@@ -1,4 +1,4 @@
-Project Developed by rModhomebrew team 
+Project Developed by Lakiitu team 
 
 Game source: https://github.com/cellos51/balatro-gba
 
